@@ -1,1 +1,1 @@
-# ec2
+# terraformでec2インスタンスを作成するdemo
